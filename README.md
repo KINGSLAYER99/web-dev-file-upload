@@ -1,7 +1,7 @@
 # web-dev-file-upload
 
 This project is of year 2020.
-webpage implements file upload mechanism to ask user to upload only .wav audio file,
+webpage implements file upload mechanism which accepts only .wav audio file,
 and the file is stored in folder called audios.
 
 Further features to be implemented are-
